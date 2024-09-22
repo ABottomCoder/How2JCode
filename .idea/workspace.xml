@@ -51,11 +51,13 @@
     "Application.Item.executor": "Run",
     "Application.LoopTag.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiException.executor": "Run",
     "Application.NumberOfDaffodils.executor": "Run",
     "Application.PrimarySchoolMath.executor": "Debug",
     "Application.StringCompare.executor": "Run",
     "Application.TestDate.executor": "Run",
     "Application.TestNumber.executor": "Run",
+    "Application.intermediate.chapter1.Hero.executor": "Run",
     "Application.millionaire.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -79,14 +81,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\13087\GithubCode\How2JCode" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="intermediate.chapter1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TestDate">
-    <configuration name="Basics.chapter8.ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.chapter8.ADHero" />
+  <component name="RunManager" selected="Application.Account">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.Account" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.chapter8.*" />
+          <option name="PATTERN" value="intermediate.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.chapter8.Hero" />
+    <configuration name="MultiException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.MultiException" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.chapter8.*" />
+          <option name="PATTERN" value="intermediate.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.chapter9.TestNumber" />
+    <configuration name="intermediate.chapter1.Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.Hero" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.chapter9.*" />
+          <option name="PATTERN" value="intermediate.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.intermediate.chapter1.Hero" />
+        <item itemvalue="Application.MultiException" />
         <item itemvalue="Application.TestDate" />
         <item itemvalue="Application.StringCompare" />
-        <item itemvalue="Application.TestNumber" />
-        <item itemvalue="Application.Hero" />
-        <item itemvalue="Application.Basics.chapter8.ADHero" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +179,8 @@
       <updated>1724632041149</updated>
       <workItem from="1724632042196" duration="1017000" />
       <workItem from="1724633096205" duration="8937000" />
-      <workItem from="1724951898563" duration="19294000" />
+      <workItem from="1724951898563" duration="20266000" />
+      <workItem from="1727024911959" duration="5730000" />
     </task>
     <servers />
   </component>
