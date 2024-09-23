@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 /*
 可查异常： CheckedException

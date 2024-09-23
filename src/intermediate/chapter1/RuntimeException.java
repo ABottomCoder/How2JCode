@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 /*
 运行时异常RuntimeException指： 不是必须进行try catch的异常

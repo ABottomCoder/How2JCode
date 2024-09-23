@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 import java.io.File;
 import java.io.FileInputStream;

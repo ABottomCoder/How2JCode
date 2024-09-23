@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 /*
 Throwable是类，Exception和Error都继承了该类

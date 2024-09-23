@@ -6,6 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="cab3f10d-315c-4826-8622-c3aab57faa1b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Account$OverdraftException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Account$OverdraftException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/CheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/EnemyHeroIsDeadException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/EnemyHeroIsDeadException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Error.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Error.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/MultiException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/MultiException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/MultiException2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/MultiException2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/RuntimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/RuntimeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/TestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/TestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/TestException2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/TestException2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/ThrowableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/ThrowableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Throws.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/How2JCode/intermediate/chapter1/Throws.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/EnemyHeroIsDeadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/EnemyHeroIsDeadException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/Error.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/MultiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/MultiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/MultiException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/MultiException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/RuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/RuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/TestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/TestException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/TestException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/ThrowableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/ThrowableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/chapter1/Throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/chapter1/Throws.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +64,34 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.ADHero.executor": "Run",
+    "Application.Account.executor": "Run",
     "Application.ArrayCopy.executor": "Run",
     "Application.ArrayPractice.executor": "Run",
     "Application.Basics.chapter1.HelloJava.executor": "Run",
     "Application.Basics.chapter8.ADHero.executor": "Run",
     "Application.Bmi.executor": "Debug",
+    "Application.BufferReaderTest2.executor": "Run",
+    "Application.BufferedReaderTest.executor": "Run",
+    "Application.CharStream.executor": "Run",
+    "Application.ChineseChar.executor": "Run",
     "Application.Continue.executor": "Run",
+    "Application.DataInputStreamTest.executor": "Run",
+    "Application.FileInputStreamChinese.executor": "Run",
+    "Application.FileTest.executor": "Run",
     "Application.GoldenSection.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Hero.executor": "Run",
+    "Application.InputStreamTest.executor": "Run",
     "Application.Item.executor": "Run",
     "Application.LoopTag.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiException.executor": "Run",
     "Application.NumberOfDaffodils.executor": "Run",
+    "Application.ObjectStreamTest.executor": "Run",
     "Application.PrimarySchoolMath.executor": "Debug",
+    "Application.ReadFromConsole.executor": "Run",
+    "Application.StreamTest.executor": "Run",
     "Application.StringCompare.executor": "Run",
     "Application.TestDate.executor": "Run",
     "Application.TestNumber.executor": "Run",
@@ -85,13 +123,13 @@
       <recent name="intermediate.chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Account">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.Account" />
+  <component name="RunManager" selected="Application.ReadFromConsole">
+    <configuration name="BufferReaderTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.BufferReaderTest2" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate.chapter1.*" />
+          <option name="PATTERN" value="Intermediate.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.MultiException" />
+    <configuration name="BufferedReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.BufferedReaderTest" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate.chapter1.*" />
+          <option name="PATTERN" value="Intermediate.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.chapter9.StringCompare" />
+    <configuration name="DataInputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.DataInputStreamTest" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.chapter9.*" />
+          <option name="PATTERN" value="Intermediate.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.chapter10.TestDate" />
+    <configuration name="ObjectStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.ObjectStreamTest" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.chapter10.*" />
+          <option name="PATTERN" value="Intermediate.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intermediate.chapter1.Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate.chapter1.Hero" />
+    <configuration name="ReadFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.ReadFromConsole" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate.chapter1.*" />
+          <option name="PATTERN" value="Intermediate.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Account" />
-        <item itemvalue="Application.intermediate.chapter1.Hero" />
-        <item itemvalue="Application.MultiException" />
-        <item itemvalue="Application.TestDate" />
-        <item itemvalue="Application.StringCompare" />
+        <item itemvalue="Application.ReadFromConsole" />
+        <item itemvalue="Application.ObjectStreamTest" />
+        <item itemvalue="Application.DataInputStreamTest" />
+        <item itemvalue="Application.BufferReaderTest2" />
+        <item itemvalue="Application.BufferedReaderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +218,10 @@
       <workItem from="1724632042196" duration="1017000" />
       <workItem from="1724633096205" duration="8937000" />
       <workItem from="1724951898563" duration="20266000" />
-      <workItem from="1727024911959" duration="5730000" />
+      <workItem from="1727024911959" duration="6558000" />
+      <workItem from="1727048669888" duration="1874000" />
+      <workItem from="1727050924076" duration="5417000" />
+      <workItem from="1727066534329" duration="5186000" />
     </task>
     <servers />
   </component>

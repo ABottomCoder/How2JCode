@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 /*
 错误Error，指的是系统级别的异常，通常是内存用光了

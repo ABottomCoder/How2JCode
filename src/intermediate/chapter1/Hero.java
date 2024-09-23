@@ -1,4 +1,4 @@
-package intermediate.chapter1;
+package Intermediate.chapter1;
 
 /*
 在Hero的attack方法中，当发现敌方英雄的血量为0的时候，抛出该异常
