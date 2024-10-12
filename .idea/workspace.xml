@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cab3f10d-315c-4826-8622-c3aab57faa1b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How2JCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/How2JCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +49,13 @@
     "Application.BufferedReaderTest.executor": "Run",
     "Application.CharStream.executor": "Run",
     "Application.ChineseChar.executor": "Run",
+    "Application.Client.executor": "Run",
     "Application.Continue.executor": "Run",
     "Application.DataInputStreamTest.executor": "Run",
     "Application.FileInputStreamChinese.executor": "Run",
     "Application.FileTest.executor": "Run",
+    "Application.GUIClient.executor": "Run",
+    "Application.GUIServer.executor": "Run",
     "Application.GoldenSection.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloWorld.executor": "Run",
@@ -67,9 +69,11 @@
     "Application.ObjectStreamTest.executor": "Run",
     "Application.PrimarySchoolMath.executor": "Debug",
     "Application.ReadFromConsole.executor": "Run",
+    "Application.Server.executor": "Run",
     "Application.StreamTest.executor": "Run",
     "Application.StringCompare.executor": "Run",
     "Application.TestDate.executor": "Run",
+    "Application.TestGUI.executor": "Run",
     "Application.TestJDBC.executor": "Run",
     "Application.TestJDBC2.executor": "Run",
     "Application.TestNumber.executor": "Run",
@@ -107,13 +111,13 @@
       <recent name="intermediate.chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestJDBC">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter3.ArrayListTest" />
+  <component name="RunManager" selected="Application.GUIClient">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Chapter9.Client" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.chapter3.*" />
+          <option name="PATTERN" value="Intermediate.Chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.ObjectStreamTest" />
+    <configuration name="GUIClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Chapter9.GUIClient" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.chapter2.*" />
+          <option name="PATTERN" value="Intermediate.Chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter2.ReadFromConsole" />
+    <configuration name="GUIServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Chapter9.GUIServer" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.chapter2.*" />
+          <option name="PATTERN" value="Intermediate.Chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter7.TestJDBC" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Chapter9.Server" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.chapter7.*" />
+          <option name="PATTERN" value="Intermediate.Chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intermediate.chapter7.TestJDBC2" />
+    <configuration name="TestGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Chapter8.TestGUI" />
       <module name="How2JCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intermediate.chapter7.*" />
+          <option name="PATTERN" value="Intermediate.Chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestJDBC" />
-        <item itemvalue="Application.TestJDBC2" />
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.ReadFromConsole" />
-        <item itemvalue="Application.ObjectStreamTest" />
+        <item itemvalue="Application.GUIClient" />
+        <item itemvalue="Application.GUIServer" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.TestGUI" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +212,8 @@
       <workItem from="1727066534329" duration="6084000" />
       <workItem from="1728437179387" duration="743000" />
       <workItem from="1728443213644" duration="1233000" />
-      <workItem from="1728619983671" duration="4944000" />
+      <workItem from="1728619983671" duration="5046000" />
+      <workItem from="1728684299268" duration="3091000" />
     </task>
     <servers />
   </component>
